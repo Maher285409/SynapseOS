@@ -100,4 +100,4 @@ MediaPipe detects 21 hand landmarks in real time. The script reads which fingers
 
 ## 🙋 Author
 
-Made by **[Your Name]** — feel free to fork, star, and improve it!
+Made by Maher — feel free to fork, star, and improve it!
